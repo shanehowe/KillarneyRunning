@@ -80,6 +80,7 @@ input {
     background: url(./images/banner-img.webp) no-repeat 0;
     background-size: cover;
     border-bottom: 2px solid #ffffff;
+    background-position: center;
 }
 
 .banner-inside-color {
@@ -240,6 +241,12 @@ input {
 img {
   height: 170px;
   width: 220px;
+}
+
+p {
+  font-size: 1.3rem;
+  line-height: 1.4;
+
 }
 
 }
